@@ -8,10 +8,11 @@
 
 button {
   padding: 5px;
-  margin: 5px;
+  margin: 3px;
   border: none;
   border-radius: 1ch;
-  font-weight: bolder;
+  font-weight: bold;
+  font-size: 18px;
 }
 
 .pink {
@@ -37,5 +38,8 @@ button {
 
 input {
   margin-top: 50px;
-  width: 15rem;
+  width: 12rem;
+  padding: 10px;
+  border: 1px solid lightgray;
+  border-radius: 5px;
 }
